@@ -1,3 +1,7 @@
+/*
+ * Griddy.js
+ */
+
 (function($) {
 
 // this should have everything that makes the grid work
